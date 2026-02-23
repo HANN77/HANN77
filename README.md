@@ -29,7 +29,7 @@
 - 🌱 Always learning & exploring new technologies
 - 💡 Open to collaborating on innovative ideas
 - 🎯 Goal: Contribute to open source & grow as a developer
-- ☕ Fun fact: **I turn coffee into code**
+- ☕ Fun fact: **I REALLY LOVE LIQUID GLASS THEME FOR WEBSITE**
 
 <br clear="both"/>
 
