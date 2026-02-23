@@ -26,11 +26,11 @@
 const hanielPratama = {
     name: "Haniel Pratama",
     username: "HANN77",
-    role: "Computer Science Student 🎓",
-    location: "Indonesia 🇮🇩",
+    role: "Computer Science Student",
+    location: "Indonesia",
     currentFocus: "Learning & Building projects",
     interests: ["Web Development", "Open Source", "Tech Innovation"],
-    funFact: "I turn ☕ into code"
+    funFact: "I turn coffee into code"
 };
 ```
 
