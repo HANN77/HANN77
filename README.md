@@ -22,25 +22,14 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const hanielPratama = {
-    name: "Haniel Pratama",
-    username: "HANN77",
-    role: "Computer Science Student",
-    location: "Indonesia",
-    currentFocus: "Learning & Building projects",
-    interests: ["Web Development", "Open Source", "Tech Innovation"],
-    funFact: "I turn coffee into code"
-};
-```
-
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+- 🎓 **Computer Science Student** from Indonesia 🇮🇩
 - 🔭 Currently working on **exciting new projects**
 - 🌱 Always learning & exploring new technologies
 - 💡 Open to collaborating on innovative ideas
 - 🎯 Goal: Contribute to open source & grow as a developer
-- ⚡ Fun fact: **Code is poetry** 🖋️
+- ☕ Fun fact: **I turn coffee into code**
 
 <br clear="both"/>
 
