@@ -119,7 +119,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HANN77&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=HANN77&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 ---
