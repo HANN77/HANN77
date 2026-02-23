@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Hanie%20Pratama&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Haniel%20Pratama&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Tech%20Enthusiast%20%7C%20Enjoy%20Learning&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Beginner+Vibe+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,11 +23,12 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const haniePratama = {
-    name: "Hanie Pratama",
+const hanielPratama = {
+    name: "Haniel Pratama",
     username: "HANN77",
+    role: "Computer Science Student 🎓",
     location: "Indonesia 🇮🇩",
-    currentFocus: "Building impactful projects",
+    currentFocus: "Learning & Building projects",
     interests: ["Web Development", "Open Source", "Tech Innovation"],
     funFact: "I turn ☕ into code"
 };
@@ -129,7 +130,7 @@ const haniePratama = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HANN77&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HANN77&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 ---
@@ -144,13 +145,9 @@ const haniePratama = {
 
 <div align="center">
 
-### � Watch my contribution snake eat my commits!
+### 🐍 My Contribution Snake
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HANN77/HANN77/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HANN77/HANN77/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HANN77/HANN77/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/HANN77/HANN77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
