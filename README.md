@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 **Computer Science Student** from Indonesia 🇮🇩
+- 🎓 **Computer Science Student** at the University of Palangka Raya 🇮🇩
 - 🔭 Currently working on **exciting new projects**
 - 🌱 Always learning & exploring new technologies
 - 💡 Open to collaborating on innovative ideas
